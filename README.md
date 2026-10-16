@@ -2,14 +2,14 @@
 
 # Русский перевод Xenoblade Chronicles 3
 
-Неофициальный текстовый перевод Xenoblade Chronicles 3 на русский язык. Репозиторий содержит не только результат, но и весь конвейер — от распаковки дампа до сборки устанавливаемого пакета.
+Неофициальный текстовый перевод Xenoblade Chronicles 3 на русский язык с помощью ИИ. Репозиторий содержит не только результат, но и весь конвейер — от распаковки дампа до сборки устанавливаемого пакета.
 
 ## Текущая версия: 0.1.0
 
 * История изменений: [CHANGELOG.md](CHANGELOG.md).
 * **Скачать перевод**: [последний релиз](../../releases/latest) — в нём три пакета:
-  `xc3-ru-switch-v0.1.0.zip` (консоль, Atmosphère), `xc3-ru-emu-v0.1.0.zip` (Ryujinx)
-  и `xc3-ru-archive-v0.1.0.zip` (Eden/yuzu, режим правки архива).
+  `xc3-ru-switch-vx.x.x.zip` (консоль, Atmosphère), `xc3-ru-emu-vx.x.x.zip` (Ryujinx)
+  и `xc3-ru-archive-vx.x.x.zip` (Eden/yuzu, режим правки архива).
 
 
 ## Состояние
@@ -85,7 +85,7 @@ flowchart LR
 Нужны: Python 3.11+, Rust (для `ardpack`/`fontfix`), свой дамп игры и `prod.keys`
 (ключи своей консоли или из своей установки Ryujinx), а также сторонние инструменты —
 `hactool` (SciresM), `nstool` (jakcron), `ard-tools` и `bdat-toolset` (roccodev),
-`xcnx-file-loader` (roccodev) для режима лоадера.
+`xcnx-file-loader` (roccodev) для режима лоадера, ~80Gb дискового пространства на ПК.
 
 ```powershell
 # 1) распаковка дампа → work/romfs_*, work/ard_bdat, work/font/extracted
