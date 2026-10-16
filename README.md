@@ -13,6 +13,19 @@
   `xc3-ru-switch-vx.x.x.zip` (консоль, Atmosphère), `xc3-ru-emu-vx.x.x.zip` (Ryujinx)
   и `xc3-ru-archive-vx.x.x.zip` (Eden/yuzu, режим правки архива).
 
+<table>
+  <tr>
+    <td width="33%"><img src="assets/screenshot_1.jpg" alt="Скриншот 1"></td>
+    <td width="33%"><img src="assets/screenshot_2.jpg" alt="Скриншот 2"></td>
+    <td width="33%"><img src="assets/screenshot_3.jpg" alt="Скриншот 3"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="assets/screenshot_4.jpg" alt="Скриншот 4"></td>
+    <td width="33%"><img src="assets/screenshot_5.jpg" alt="Скриншот 5"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
 
 ## Состояние
 
