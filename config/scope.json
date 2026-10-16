@@ -1,0 +1,47 @@
+{
+  "_comment": "Область перевода. Проверено по данным: весь переводимый текст лежит в таблицах msg_* (диалоги, меню, предметы, квесты, боевые подписи). В таблицах данных (QST_List, ITM_*, MNU_*, EVT_*, RSC_*) колонки вида QuestTitle/Name/Summary имеют тип 13 (MessageStudio Index) — это ссылки на msg-таблицы, а не текст, поэтому они исключены. Кандидаты scope_review.tsv (bgmlist.file_name, MNU_MapInfoFile.file_name) — имена файлов, тоже исключены. Дополнено по факту: диалоги в поле и системные сообщения лежат в таблицах с хеш-именами (game/field, game/system, game/battle, game/menu) — их текстовые колонки перечислены в table_columns явно.",
+  "include_tables": [
+    "msg_*"
+  ],
+  "exclude_tables": [
+    "msg_msg_btl_ChSU*"
+  ],
+  "table_columns": {
+    "621C6EF4": [
+      "name"
+    ],
+    "8B7D949B": [
+      "name"
+    ],
+    "0103F5B8": [
+      "name"
+    ],
+    "BEDB6533": [
+      "name"
+    ],
+    "CA2198EC": [
+      "name"
+    ],
+    "F6E689C3": [
+      "name"
+    ],
+    "96DFBB81": [
+      "name"
+    ],
+    "68394577": [
+      "name"
+    ]
+  },
+  "non_text_cols": [
+    "label",
+    "ID",
+    "style",
+    "talker",
+    "talkattr",
+    "talkattr2",
+    "talkattr3"
+  ],
+  "min_chars": 1,
+  "reuse_identical_sources": true,
+  "context": 4
+}

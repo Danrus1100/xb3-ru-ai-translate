@@ -1,0 +1,34 @@
+# --- данные игры и производные: в репозитории им не место ---
+game/
+work/
+dist/
+*.nsp
+*.xci
+*.nca
+*.tik
+*.parts
+prod.keys
+title.keys
+*.keys
+
+# --- секреты: реальные конфиги API остаются локальными, в репо только пример ---
+config/api*.json
+!config/api.example.json
+
+# --- внутренние планы и заметки (не публикуются) ---
+xc3-ru-ai-translation-plan.md
+docs/*todo*.md
+docs/todo-tomorrow.md
+
+# --- сборка инструментов ---
+tools/ardpack/target/
+tools/fontfix/target/
+
+# --- python ---
+__pycache__/
+*.pyc
+.venv/
+
+# --- временное от инструментов ---
+.~*
+*.tmp

@@ -1,0 +1,116 @@
+en,ru,kind,case_sensitive,mode,always,notes
+Ouroboros,Уроборос,term,false,force,1,форма слияния двух людей; отряд героев умеет в неё превращаться
+Moebius,Мёбиус,term,true,force,1,"бессмертная каста правителей, враги; членов называют консулами"
+Consul,Консул,term,false,force,1,титул правителя колонии; обращение уважительное
+Flame Clock,Пламенные часы,term,false,force,1,артефакт колонии: отсчитывает срок жизни её жителей
+Ferronis,Ферронис,term,false,force,1,"гигантская боевая машина, одновременно дом колонии"
+Off-seer,Провожатый,term,false,force,1,провожатый: играет на флейте по погибшим (профессия)
+Sending,Проводы,term,false,suggest,0,обряд проводов погибших под флейту
+Homecoming,Возвращение домой,term,false,force,1,"обряд: воин умирает до конца срока, с почестями"
+Colony,Колония,term,false,force,0,колония Кевеса или Агнуса под управлением консула
+Iris,Ирис,term,false,force,0,магический «глаз»: связь и проекции (у консулов фиолетовый)
+Levnis,левнис,term,false,suggest,0,レウニス; рендер английского Levnis
+Lost Numbers,Забытые,term,false,suggest,0,боевая группа Города
+Liberators,Освободители,term,false,suggest,0,союзники в освобождении колоний
+City,Город,place,false,force,0,"Город: убежище людей вне войны, потомки Изначальных"
+Keves,Кевес,place,true,force,1,военная держава на машинах; народы — люди и хай-энтиа
+Agnus,Агнус,place,true,force,1,"вторая держава: эфирные технологии, иные народы"
+Swordmarch,Свордмарш,place,true,suggest,0,"регион и меч, воткнутый в землю; «Свордмарш»"
+Nopon,нопон,name,false,force,0,пушистый торговый народец; говорит о себе в третьем лице
+High Entia,хай-энтиа,term,false,suggest,0,народ с крыльями на голове
+Arts,Искусства,ui,false,force,1,"боевые приёмы, «искусства»"
+Talent Art,Талант,ui,false,suggest,0,"особый приём класса, «талант»"
+Class,Класс,ui,false,force,0,боевой класс персонажа
+Role,Роль,ui,false,suggest,0,"роль класса: атакующий, защитник или лекарь"
+Attacker,Атакующий,ui,false,suggest,0,
+Defender,Защитник,ui,false,suggest,0,
+Healer,Лекарь,ui,false,suggest,0,
+Accessory,Аксессуар,ui,false,suggest,0,аксессуар в экипировке
+Gem,Самоцвет,ui,false,suggest,0,самоцвет: улучшение в экипировке
+Ether Cylinder,Эфирный цилиндр,term,false,suggest,0,эфирный цилиндр: ресурс для машин Кевеса
+Quest,Задание,ui,false,force,0,задание
+Affinity,Связь,ui,false,suggest,0,связь между персонажами или колониями
+Noah,Ноа,name,true,force,1,"главный герой (м), провожатый Кевеса"
+Mio,Мио,name,true,force,1,"героиня (ж), провожатая Агнуса"
+Eunie,Юни,name,true,force,1,"героиня (ж), подруга Ноа, лекарь-стрелок"
+Taion,Тайон,name,true,force,1,"герой (м), тактик Агнуса"
+Lanz,Ланц,name,true,force,1,"герой (м), защитник, друг Ноа"
+Sena,Сена,name,true,force,1,"героиня (ж), атакующая, подруга Мио"
+Riku,Рику,name,true,force,1,"нопон (м), механик; говорит о себе в третьем лице"
+Manana,Манана,name,true,force,1,"нопон (ж), повариха; говорит о себе в третьем лице"
+Zeon,Зеон,name,true,force,0,"командир колонии (м), принципиальный воин"
+Valdi,Вальди,name,true,force,0,"механик (м), командир колонии"
+Teach,Тич,name,true,suggest,0,"командир колонии (м), наставник"
+Gray,Грей,name,true,force,0,"наёмник Города (м), немногословен"
+Isurd,Исурд,name,true,force,0,командир колонии (м)
+Alexandria,Александра,name,true,force,0,"командир колонии (ж), педант по регламенту"
+Cammuravi,Каммурави,name,true,force,0,воин Агнуса (м)
+Ethel,Этель,name,true,force,0,"командир колонии (ж), благородная воительница"
+Ashera,Ашера,name,true,force,0,"командир колонии (ж), любит опасность"
+Juniper,Джунипер,name,true,force,0,командир колонии (ж)
+Fiona,Фиона,name,true,force,0,"командир колонии (ж), добрая и робкая"
+Monica,Моника,name,true,force,0,командующая Города (ж)
+Ghondor,Гондор,name,true,force,0,"дочь Моники (ж), дерзкая"
+Triton,Тритон,name,true,force,0,"консул (м), бывший пират"
+Miyabi,Мияби,name,true,force,0,"провожатая (ж), подруга Мио"
+Nimue,Нимуэ,name,true,force,0,жительница Города (ж)
+Shania,Шания,name,true,force,0,курсантка Города (ж)
+Joran,Джоран,name,true,force,0,друг детства Ноа (м)
+Guernica,Герника,name,true,force,0,командир Города (м)
+Vandham,Вандам,name,true,force,0,командир Города (м)
+Mwamba,Мвамба,name,true,force,0,воин Кевеса (м)
+N,N,name,true,keep,1,буква-имя
+M,M,name,true,keep,1,буква-имя
+X,X,name,true,keep,1,буква-имя
+Z,Z,name,true,keep,1,буква-имя
+Yzana Plains,Изана,term,false,force,1,равнина Изана: регион
+Bunnit,баннит,term,false,force,1,"зверь, водится стаями; мясо невкусное"
+Bunnits,банниты,term,false,force,1,"звери, водятся стаями"
+Ardun,ардон,term,false,force,1,зверь с рогами; рога ценятся
+Arduns,ардоны,term,false,force,1,звери с рогами
+Armu,альма,term,false,force,1,"зверь, даёт молоко и мясо"
+Armus,альмы,term,false,force,1,"звери, дают молоко и мясо"
+Levnises,левнисы,term,false,force,1,"боевые машины меньше Ферронис, в том числе личные"
+Origin,Ориджин,term,true,force,1,"ковчег, построенный обеими державами для сохранения мира"
+Repapa,Репапа,term,true,force,1,"нопон, вождь"
+Mimi,Мио,term,true,force,1,ласковое имя Мио (только в английском тексте)
+Bambam,Бам-Бам,term,true,force,1,нопон; в японском Хамaхама
+Samon,Самон,term,true,force,1,"нопон, механик"
+Theta,Тета,term,true,force,1,название колонии
+Lambda,Лямбда,term,true,force,1,название колонии
+Kevesi,Кевес,term,true,suggest,1,"прилагательное: «кевесский, кевесец»"
+Agnian,Агнус,term,true,suggest,1,"прилагательное: «агнусский, агнусец»"
+Queen,Королева,term,false,suggest,1,королева Кевеса или Агнуса
+Castle,Замок,term,false,suggest,1,замок: столица Кевеса
+Segiri,Сегири,term,true,force,1,персонаж (ж) Колонии 0; было «Сэгири» (31) против «Сегири» (59)
+Kyrie,Кирие,term,true,force,1,курсантка Города (ж); было «Кириэ» (33) против «Кирие» (40)
+Kite,Кайт,term,true,force,1,боец Города (м); яп. カイト; было «Кайц» (17) против «Кайт» (93)
+Everblight Plain,Равнина Порчи,term,true,force,1,"яп. 不治ヶ原 («равнина», не «пустоши»)"
+Iota,Йота,term,true,force,1,название колонии
+Gamma,Гамма,term,true,force,1,название колонии
+Sigma,Сигма,term,true,force,1,название колонии
+Chi,Кай,term,true,force,1,название колонии; держим японское カイ
+Mu,Мю,term,true,suggest,1,название колонии
+Rho,Ро,term,true,suggest,1,название колонии
+Interlink,Интерлинк,term,true,force,1,механика: слияние двух уроборосов
+Blade,Клинок,term,false,suggest,1,оружие уроборосов; force запрещён: «blade of grass» — обычное слово
+Collectopaedia,Карта коллекций,term,true,force,1,раздел меню: карты коллекций; форма закреплена (редактор дважды ловил разнобой)
+Aionios,Айониос,term,true,suggest,1,название мира; force нельзя: в восклицании «What on Aionios» имя обязано исчезнуть
+Dame,госпожа,term,true,suggest,1,обращение в Городе (перед именем)
+Majesty,Ваше Величество,term,false,suggest,1,обращение к королеве
+Tirkin,тиркин,term,false,force,1,птицелюди-разбойники
+Dorrick,Доррик,term,true,force,1,проект и персонаж
+Dorin,Дорин,term,true,force,1,нопон
+Fifi,Фифи,term,true,force,1,нопон
+Tempapa,Темпапа,term,true,force,1,"нопон, торговец"
+Niranira,Нирнира,term,true,force,1,нопон
+Nico,Нико,term,true,force,1,нопон
+Irma,Ирма,term,true,force,1,жительница Города (ж)
+Pulipuli,Пулипули,term,true,force,1,нопон
+Shillshill,Шилшил,term,true,force,1,нопон (ж)
+Miibomii,Миибоми,term,true,force,1,нопон (ж)
+Mechafriend,Мехадруг,term,false,force,1,нопонский термин: механический друг
+Wildwood,Дикий лес,term,true,suggest,1,часть названия региона
+Maktha,Макта,term,true,force,1,Дикий лес Макта
+Seeker,искатель,term,false,suggest,1,титул в Городе
+Meh-meh,Мо-мо-мо,term,false,force,1,нопонское восклицание; единая форма

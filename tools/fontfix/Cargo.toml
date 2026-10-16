@@ -1,0 +1,18 @@
+[package]
+name = "fontfix"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+xc3_lib = { git = "https://github.com/ScanMountGoat/xc3_lib" }
+xc3_write = { git = "https://github.com/ScanMountGoat/xc3_lib", package = "xc3_write" }
+binrw = "0.15"
+image_dds = "0.7.1"
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+ab_glyph = "0.2"
+image = "0.25"
+eframe = { version = "0.29", default-features = false, features = ["glow", "default_fonts"] }
+
+[profile.release]
+opt-level = 2

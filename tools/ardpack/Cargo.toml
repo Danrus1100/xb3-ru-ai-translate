@@ -1,0 +1,14 @@
+[package]
+name = "ardpack"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ardain = { git = "https://github.com/roccodev/ard-tools" }
+xc3_lib = "0.22.0"
+binrw = "0.15"
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+
+[profile.release]
+opt-level = 2
